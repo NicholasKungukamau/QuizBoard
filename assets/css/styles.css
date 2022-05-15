@@ -79,3 +79,17 @@ hr{
     margin-top: 360px;
     border-radius: 20px;
   }
+
+  #result{
+    background-color: cyan;
+    border: 1px solid black;
+    height: 70px;
+    width: 190px;
+    position: relative;
+    left: 170px;
+    top: -60px;
+    border-radius: 12px;
+    text-align: center;
+    margin-left: -20px;
+    
+}
