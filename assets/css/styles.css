@@ -90,6 +90,11 @@ hr{
     top: -60px;
     border-radius: 12px;
     text-align: center;
-    margin-left: -20px;
-    
+    margin-left: -20px;  
+}
+
+h3{
+    color: magenta;
+    margin-top: 20px;
+    font-style: italic;  
 }
