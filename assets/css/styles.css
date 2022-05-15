@@ -32,3 +32,10 @@ img{
     left: 150px;
     top: 40px;
 }
+
+h2{
+    display: flex;
+    justify-content: center;
+    color: blue;
+    font-style: italic;
+}
