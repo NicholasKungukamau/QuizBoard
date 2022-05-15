@@ -39,3 +39,8 @@ h2{
     color: blue;
     font-style: italic;
 }
+
+hr{
+    position: relative;
+    top: 60px;
+}
