@@ -10,12 +10,12 @@ function myClass(){
     result.innerHTML=score;
 
     if (score==3){
-        result.innerHTML="Your Score is " + Math.floor(score/3*100) + "%"+ ". Excellent."
+        result.innerHTML="Your Score is " + Math.floor(score/3*100) + "%"+ ". Excellent !!🙌."
     }
     else if(score==2){
-        result.innerHTML="Your Score is " + Math.floor(score/3*100) + "%"+ ". Average."
+        result.innerHTML="Your Score is " + Math.floor(score/3*100) + "%"+ ". Average.😊"
     }
     else{
-        result.innerHTML="Your Score is " + Math.floor(score/3*100) + "%"+ ". Fail. Please re-take  the test"
+        result.innerHTML="Your Score is " + Math.floor(score/3*100) + "%"+ ". Fail. Please re-take  the test.🥺"
     }
 };
