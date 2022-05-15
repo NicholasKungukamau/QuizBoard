@@ -24,5 +24,11 @@
     left: 35.5%;
     background-color: white;
     border-radius: 10px;
+}
 
+img{
+    height: 70px;
+    position: absolute;
+    left: 150px;
+    top: 40px;
 }
