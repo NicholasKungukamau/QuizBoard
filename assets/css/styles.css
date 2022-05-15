@@ -44,3 +44,11 @@ hr{
     position: relative;
     top: 60px;
 }
+
+.questions{
+    
+    position: absolute;
+    left: 50px;
+    top: 120px;
+    
+}
