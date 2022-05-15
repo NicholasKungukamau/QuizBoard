@@ -13,3 +13,16 @@
     left: 35%;
     background-color: blue;
 }
+
+.box2{
+    height: 480px;
+    width: 340px;
+    border: 1px solid black;
+    position: fixed;
+    padding: 20px;
+    top: 55px;
+    left: 35.5%;
+    background-color: white;
+    border-radius: 10px;
+
+}
