@@ -46,9 +46,12 @@ hr{
 }
 
 .questions{
-    
     position: absolute;
     left: 50px;
-    top: 120px;
-    
+    top: 120px;   
+}
+
+.questions h4{
+    font-weight: bolder;
+    font-style: italic;
 }
